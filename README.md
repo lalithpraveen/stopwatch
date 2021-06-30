@@ -1,4 +1,4 @@
-In this assignment let's build a **Stopwatch** by applying the concepts we have
+In this assignment I build a **Stopwatch** by applying the concepts I have
 learned till now.
 
 ### Refer to image below:
